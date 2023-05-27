@@ -1,4 +1,4 @@
-### print( "Hello world !" ) 👋
+### print( "Hello there !" ) 👋
 
 <!--
 **tchaylluanbrunno/tchaylluanbrunno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
